@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Routines</string>
     <string name="action_settings">Settings</string>
+
+    <string name="cheese_ipsum">"Abbaye de Belloc "Abbaye du Mont des Cats "
+"Aisy Cendre "Allgauer Emmentaler "Alverca "Ambert "American Cheese
+"Ami du Chambertin "Anejo Enchilado "Anneau du Vic-Bilh "Anthoriro "Appenzell
+"Aragon "Ardi Gasna "Ardrahan "Armenian String "Aromes au Gene de Marc
+"Asadero "Asiago "Aubisque Pyrenees "Autun "Avaxtskyr "Baby Swiss
+"Babybel "Baguette Laonnaise "Bakers "Baladi "Balaton "Bandal "Banon
+"Barrs Bay Cheddar "Basing "Basket Cheese "Bath Cheesvarian Bergkase</string>
 </resources>
